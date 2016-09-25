@@ -1,6 +1,6 @@
 # ubuntu-mac-gestures
 
-Remaps control/super keys and adds basic Mac gestures
+Remaps control/super keys and adds basic Mac gestures for Macbook + Ubuntu. Specifically tested with Early 2015 Macbook Pro Retina (12,1).
 
 ## Setup
 
