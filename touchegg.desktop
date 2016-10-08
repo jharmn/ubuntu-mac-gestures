@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/touchegg
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=touchegg
+Name=touchegg
+Comment[en_US]=
+Comment=
