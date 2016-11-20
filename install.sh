@@ -10,7 +10,7 @@ cp xmodmap.desktop ~/.config/autostart/
 cp touchegg.conf ~/.config/touchegg/
 cp touchegg.desktop ~/.config/autostart/
 
-cp 50-mtrack /usr/share/X11/xorg.conf.d/
+cp 50-mtrack.conf /usr/share/X11/xorg.conf.d/
 
 nohup /usr/bin/touchegg &
 
